@@ -1,0 +1,29 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "name":"Anisa Muema",
+            "age":17,
+            "poster": ""
+        },
+        {
+            "id": 2,
+            "name":"Ryan Muema",
+            "age":19,
+            "poster": ""
+        },
+        {
+            "id": 3,
+            "name":"Leila Hanshy Muema",
+            "age":39,
+            "poster": ""
+        },
+        {
+            "id": 4,
+            "name":"Sylverster Muema",
+            "age":45,
+            "poster": ""
+        }
+        
+    ]
+}
